@@ -35,4 +35,8 @@ return [
         ],
     ],
 
+    'gap' => [
+        'key' => env('GAP_API_KEY'),
+    ],
+
 ];

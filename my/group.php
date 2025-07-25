@@ -1,8 +1,8 @@
 <?php
 
 
-$telegramToken = '';
-$gapApiKey = '';
+$telegramToken = '8042806154:AAEfPvKYRfLoHvZ70vIj4PlQ4btqflFRmn4';
+$gapApiKey = 'sk-Srl5P534RBwmzNb0SBqCTGTTa1ZCJDWOoFAqcw3ecsSNiA5e';
 
 define('TELEGRAM_API_URL', "https://api.telegram.org/bot$telegramToken/");
 define('GAP_API_URL', 'https://api.gapgpt.app/v1/chat/completions');
